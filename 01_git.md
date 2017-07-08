@@ -3,6 +3,7 @@
 https://techacademy.jp/magazine/6235#sec2
 
 ## ＜よく使うコマンド＞  
+[最後へ](#fin)  
 ```echo "# pj" >> README.md```  
 ```git init```  
 ```git add README.md```  
@@ -29,3 +30,4 @@ https://techacademy.jp/magazine/6235#sec2
 ---
 
 ```.gitignore```  
+<a name="fin"></a>
