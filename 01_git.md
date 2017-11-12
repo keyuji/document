@@ -8,11 +8,13 @@ https://techacademy.jp/magazine/6235#sec2
 ```git init```  
 ```git add README.md```  
 ```git commit -m "first commit"```  
-```git remote add origin  https://github.com/keyuji/pj.git```
-```git remote add origin https://github.com/keyuji/document.git``` 
 ```git push -u origin master```  
 
 ```git clone https://github.com/keyuji/document.git```  
+
+```git remote add origin  https://github.com/keyuji/pj.git```
+```git remote add origin https://github.com/keyuji/document.git```
+
 
 ---
 ```git status```  

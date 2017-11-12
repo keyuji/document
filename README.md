@@ -35,7 +35,9 @@
 ### ◻︎linkedin or FaceBookのIDでログイン
 ### ◻︎upload　超簡単！
 
+＜ハッカソン発表資料＞
 https://www.slideshare.net/YujiKita/unibo-81913812
+
 https://www.slideshare.net/secret/zr8VvzMXqdAs7o
 
 ---
