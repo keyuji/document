@@ -18,8 +18,8 @@
 ### ■mdファイル編集できる
 ---
 ## 過去成果を蓄積しよう
-### ◻︎構築済みのiOSアプリをgitに
-### ◻︎過去発表資料（ハッカソン）
+### ■構築済みのiOSアプリをgitに
+### ■過去発表資料（ハッカソン）
 ---
 ## WatsonAPIを使える人になる
 ### ◻︎JavaScript
@@ -30,18 +30,22 @@
 ### ◻︎
 ### ◻︎
 ---
+## ホームページ
+### ■ラ・ココット　
+http://lacocotte.s602.xrea.com/index.html
+---
 ## SlideShareにあげてみる
-### ◻︎https://www.slideshare.net
-### ◻︎linkedin or FaceBookのIDでログイン
-### ◻︎upload　超簡単！
+### ■https://www.slideshare.net
+linkedin or FaceBookのIDでログイン　
+upload　超簡単！
 
-＜ハッカソン発表資料＞
+＜ハッカソン発表資料＞　
 https://www.slideshare.net/YujiKita/unibo-81913812
 
 https://www.slideshare.net/YujiKita/unibo-81913812
 
 ---
-## 最新技術についていく有識者になり価値を出すんだ
+## 最新技術の調査
 ### ◻︎Ansible
 ### ◻︎serverspec
 ### ◻︎KVM
