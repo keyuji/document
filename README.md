@@ -35,14 +35,10 @@
 ### ◻︎linkedin or FaceBookのIDでログイン
 ### ◻︎upload　超簡単！
 
-<<<<<<< HEAD
 ＜ハッカソン発表資料＞
 https://www.slideshare.net/YujiKita/unibo-81913812
 
-=======
 https://www.slideshare.net/YujiKita/unibo-81913812
->>>>>>> 9e98fea41bb44a5426fc1cd89ae29bb5280d0978
-https://www.slideshare.net/secret/zr8VvzMXqdAs7o
 
 ---
 ## 最新技術についていく有識者になり価値を出すんだ
