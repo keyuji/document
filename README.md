@@ -31,8 +31,13 @@
 ### ◻︎
 ---
 ## SlideShareにあげてみる
-### ◻︎
-### ◻︎
+### ◻︎https://www.slideshare.net
+### ◻︎linkedin or FaceBookのIDでログイン
+### ◻︎upload　超簡単！
+
+https://www.slideshare.net/YujiKita/unibo-81913812
+https://www.slideshare.net/secret/zr8VvzMXqdAs7o
+
 ---
 ## 最新技術についていく有識者になり価値を出すんだ
 ### ◻︎Ansible
